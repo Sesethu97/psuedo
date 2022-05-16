@@ -1,0 +1,20 @@
+Scenario 1:
+
+-An algorithm that asks a user to enter a positive number repeatedly
+until the user enters a zero value. Then determine the sum of all the negatives and positive values.
+
+
+Scenario 2ario
+-An algorithm that reads an arbitrary number of integers and then
+returns their arithmetic average.
+
+Scenario 3
+-An algorithm that reads a grocery list and prints out the products
+ (in alphabetical order) that are still left to buy.
+
+ scenario 4
+ request user to x,y
+ calculate s=x+y
+ calculate A=s/2
+ calculate p=x*y
+ write s,a,p
