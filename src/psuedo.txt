@@ -11,10 +11,3 @@ returns their arithmetic average.
 Scenario 3
 -An algorithm that reads a grocery list and prints out the products
  (in alphabetical order) that are still left to buy.
-
- scenario 4
- request user to x,y
- calculate s=x+y
- calculate A=s/2
- calculate p=x*y
- write s,a,p
